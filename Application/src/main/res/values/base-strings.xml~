@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">sd1340_webview</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            This shows how to handle a WebView.
+            
+        
+        ]]>
+    </string>
+</resources>

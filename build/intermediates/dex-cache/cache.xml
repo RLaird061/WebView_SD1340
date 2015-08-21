@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="O:\dev\SD1340\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="O:\dev\SD1340\Application\build\intermediates\pre-dexed\debug\classes-8c940af90a978bf8845d9ecf1a9bb911c35841c6.jar" />
+    </item>
+    <item
+        jar="O:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="O:\dev\SD1340\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-01cc280b0be39bafe8ee8b37f59f99fd42f74a8c.jar" />
+    </item>
+    <item
+        jar="O:\dev\SD1340\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="O:\dev\SD1340\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c563b12ab1c9e20f9cb3f0f4c9d3f79bcdae41bf.jar" />
+    </item>
+    <item
+        jar="O:\dev\SD1340\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="O:\dev\SD1340\Application\build\intermediates\pre-dexed\debug\classes-5d9dd826eee8c913e57b6ed7401b9fd4322b3901.jar" />
+    </item>
+    <item
+        jar="O:\dev\SD1340\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="O:\dev\SD1340\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-0e0e7631e0dbc2a2c866605b5cf43934425bf204.jar" />
+    </item>
+    <item
+        jar="O:\dev\SD1340\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="O:\dev\SD1340\Application\build\intermediates\pre-dexed\debug\classes-7007da89ac19ddaf47cedae805a90e2268e18d3b.jar" />
+    </item>
+
+</items>
